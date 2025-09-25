@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello
+
+I'm Chelsea, a project manager turned data analyst. 
+
+### Experience With
+Data analysis and reporting using Excel and Google Sheets <br>
+PowerBI <br>
+Language: SQL, R <br>
+Visualization: Tableau
 
 <!--
 **c-koll/c-koll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
