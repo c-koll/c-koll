@@ -8,6 +8,9 @@ PowerBI <br>
 Language: SQL, R <br>
 Visualization: Tableau
 
+### Learning
+Python
+
 <!--
 **c-koll/c-koll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
