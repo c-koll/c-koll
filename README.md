@@ -9,7 +9,7 @@ Language: SQL, R <br>
 Visualization: Tableau
 
 ### Learning
-Python
+Python <br>
 Machine learning basics
 
 <!--
